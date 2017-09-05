@@ -4,8 +4,8 @@
 
 ##:pushpin: Situação
 - [x] Em Desenvolvimento
-- [ ] Fase de Testes
-- [ ] Processo de Aperfeiçoamento
+- [x] Fase de Testes
+- [x] Processo de Aperfeiçoamento
 
 ##:notebook: Objetivos
 ###Sob a perspectiva do Aluno
