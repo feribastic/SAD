@@ -1,0 +1,14 @@
+{
+    "sigla":"SAD",
+    "nome":"Sistema de Avaliação de Disciplina",
+    "versao":"0.1.2",
+    "data":"03/09/2015",
+    "hora":"08:47:49",
+    "linguagens":["PHP", "Javascript", "HTML", "CSS"],
+    "linguagem_base":"PHP",
+    "charset":"utf8",
+    "idioma":"pt_BR",
+    "projetistas":["Yan Gabriel da Silva Machado"],
+    "desenvolvedores":["Felipe Ribas Coutinho", "Yan Gabriel da Silva Machado"],
+    "mantedores":["Instituto de Nutrição - Universidade Estadual do Rio de Janeiro"]
+}

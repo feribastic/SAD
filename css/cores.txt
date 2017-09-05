@@ -1,0 +1,24 @@
+TONS DE VERDE[INICIO]
+    Verde Escuro: #203A20;
+    Verde Medio: #628916;
+    Verde Claro: #66B24C;
+TONS DE VERDE[FIM]
+
+TONS DE PRETO[INICIO]
+    Preto Escuro: #000000;
+    Preto Medio: #191919;
+    Preto Claro: #474747;
+TONS DE PRETO[FIM]
+
+TONS DE VERMELHO[INICIO]
+    Vermelho Escuro: #FF1919;
+    Vermelho Medio: ;
+    Vermelho Claro: #FF3030;
+TONS DE VERMELHO[FIM]
+
+TONS DE CINZA[INICIO]
+    Cinza Escuro: #D3D3D3;
+    Cinza Medio: #F2F2F2;
+    Cinza Claro: #F8F8F8;
+TONS DE CINZA[FIM]
+
